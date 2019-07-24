@@ -1,0 +1,52 @@
+
+
+.banner {
+  background-image: url(https://source.unsplash.com/random/1500x900);
+  background-size: cover;
+  color: white;
+  padding: 160px;
+  margin-bottom: 80px;
+  background-position: center;
+
+}
+
+.banner h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 44px;
+}
+
+.banner p {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+body {
+  font-family: 'Lora', serif;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  color: rgb(150,150,150);
+  opacity: 0.9;
+}
+
+.container {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.link-medium {
+    background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+    color: #636363;
+    font-weight: lighter;
+    font-size: 25px;
+    font-style: italic;
+  }
+
+.link-medium:hover {
+    background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));
+  }
